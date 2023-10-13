@@ -1,0 +1,10 @@
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\ortalama hesaplama\ortalama hesaplama\bin\Debug\ortalama hesaplama.exe.config
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\ortalama hesaplama\ortalama hesaplama\bin\Debug\ortalama hesaplama.exe
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\ortalama hesaplama\ortalama hesaplama\bin\Debug\ortalama hesaplama.pdb
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\ortalama hesaplama\ortalama hesaplama\obj\Debug\ortalama hesaplama.csproj.AssemblyReference.cache
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\ortalama hesaplama\ortalama hesaplama\obj\Debug\ortalama_hesaplama.Form1.resources
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\ortalama hesaplama\ortalama hesaplama\obj\Debug\ortalama_hesaplama.Properties.Resources.resources
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\ortalama hesaplama\ortalama hesaplama\obj\Debug\ortalama hesaplama.csproj.GenerateResource.cache
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\ortalama hesaplama\ortalama hesaplama\obj\Debug\ortalama hesaplama.csproj.CoreCompileInputs.cache
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\ortalama hesaplama\ortalama hesaplama\obj\Debug\ortalama hesaplama.exe
+C:\Users\emira\OneDrive\Masaüstü\yezda\Yezda Açık\ortalama hesaplama\ortalama hesaplama\obj\Debug\ortalama hesaplama.pdb
